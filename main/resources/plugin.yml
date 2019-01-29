@@ -1,0 +1,8 @@
+name: PartySystem
+version: 1.0
+author: Ventriix
+website: https://variaty.eu
+description: PartySystem quickcoding
+main: de.ventriix.partysystem.core.PartySystem
+commands:
+  party:
